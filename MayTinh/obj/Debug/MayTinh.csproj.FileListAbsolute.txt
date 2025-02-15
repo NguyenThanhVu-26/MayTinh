@@ -1,1 +1,2 @@
 D:\MayTinh\MayTinh\bin\Debug\MayTinh.exe.config
+D:\TaiVe\MayTinh\MayTinh\bin\Debug\MayTinh.exe.config
